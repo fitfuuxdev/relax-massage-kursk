@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fitfuuxdev.github.io/relax-massage-kursk/sitemap.xml
